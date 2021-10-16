@@ -1,0 +1,14 @@
+bypass-permission: "mutechat.bypass"
+mute-permission: "mutechat.mute"
+mute-permission-message: "&cYou don't have permission to mute the chat!"
+mute-message: 
+  - ""
+  - "&cChat has been muted by &4&l%user%."
+  - "&cYou cannot talk until the chat is unmuted!"
+  - ""
+unmute-message:
+  - ""
+  - "&aChat has been unmuted by &2&l%user%."
+  - "&aYou can now talk!"
+  - ""
+reload-message: "&aSuccessfully reloaded the configuration file!"

@@ -1,0 +1,9 @@
+main: cf.bugodev.mutechat.MuteChat
+name: MuteChat
+version: 2.0
+author: bugo07
+api-version: 1.16
+
+commands:
+  mutechat:
+  mutechatconfig:
