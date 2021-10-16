@@ -1,4 +1,4 @@
-# Welcome to MuteChat ![MuteChat](https://cdn.bugodev.cf/images/mutechat.png)
+# Welcome to MuteChat
 ![Version](https://img.shields.io/badge/version-2.0-blue.svg?cacheSeconds=2592000)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Twitter: bugoLMAO](https://img.shields.io/twitter/follow/bugoLMAO.svg?style=social)](https://twitter.com/bugoLMAO)
