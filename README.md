@@ -5,12 +5,6 @@
 
 > Mute the server chat!
 
-## Install
-
-```sh
-npm install
-```
-
 ## Author
 
 👤 **BUGO07**
@@ -35,6 +29,3 @@ Give a ⭐️ if this project helped you!
 Copyright © 2021 [BUGO07](https://github.com/BUGO07).
 
 This project is [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
